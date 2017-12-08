@@ -3,9 +3,9 @@
 ![DoxTracker.jpg](https://github.com/KURO-CODE/DoxTracker/blob/master/DoxTracker.jpg)
 
 # Usage
-* XXX
-* XXX
-* XXX
+* git clone https://github.com/KURO-CODE/DoxTracker.git
+* cd DoxTracker
+* python Doxtracker.py
 
 # INFO
 Simple doxing tool
