@@ -5,7 +5,7 @@
 # Usage
 * git clone https://github.com/KURO-CODE/DoxTracker.git
 * cd DoxTracker
-* python Doxtracker.py
+* python DoxTracker.py
 
 # INFO
 Simple doxing tool
