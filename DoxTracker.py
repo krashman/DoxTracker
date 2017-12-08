@@ -430,6 +430,5 @@ def EXITMENU():
 	time.sleep(1)
 	KURO()
 	sys.exit()
-	
-	
+		
 menu()
